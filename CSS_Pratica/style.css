@@ -1,0 +1,18 @@
+body {
+    background-color: #b4fc5d; /* Cor de fundo da página */
+}
+
+.texto {
+    font-size: 20px; /* tamanho da fonte */
+    line-height: 35px; /* altura entre linhas */
+    color: #0c57e1; /* Cor da fonte */
+    font-style: italic; /* Estilo da fonte */
+    font-weight: bold; /* Largura da fonte */
+    text-align: center; /* Alinhamento de texto*/
+}
+
+.texto a {
+    color: #ff0000; /* Cor da fonte (link) */
+    text-decoration: none; /* Retira o sublinhado do link, a decoração */
+    text-transform: uppercase; /* Deixa maiúsculo */
+}
